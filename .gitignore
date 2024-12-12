@@ -1,4 +1,5 @@
-node_modules/
+frontend/node_modules/
+backend/django
 build/
 .env
 .DS_Store
